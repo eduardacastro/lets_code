@@ -1,0 +1,3 @@
+Essa é a primeira linha que eu escrivi usando Python
+Essa é a segunda linha que eu escrivi usando Python
+Essa é a minha terceira linha em Python
